@@ -4,12 +4,6 @@
         . . # . . 
         . . # . . 
         # # # # #
-        `</field><next><block type="device_show_leds" id=";M3W5zMe1[cB7KL%oUzv"><field name="LEDS">`
-        . . . . . 
-        . . . . . 
-        . . . . . 
-        . . . . . 
-        . . . . .
         `</field><next><block type="device_show_leds" id="}(zTxp1@;}tCy]pFXHtn"><field name="LEDS">`
         . # . # . 
         # # # # # 
@@ -40,4 +34,4 @@
         . . # # # 
         . . # . # 
         . . # # #
-        `</field></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block></xml>
+        `</field></block></next></block></next></block></next></block></next></block></next></block></statement></block></xml>
